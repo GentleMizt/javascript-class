@@ -214,3 +214,9 @@
 
 // const res = calcVolumeCube(10);
 // console.log(res)
+
+let user = {
+    name: 'kareem'
+};
+console.log(typeof user);
+console.log(user);
